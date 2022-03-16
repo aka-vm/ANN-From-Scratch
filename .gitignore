@@ -1,0 +1,7 @@
+/__pycache__
+/*/.ipynb_checkpoints
+/pickles
+*/test2.ipynb
+*/*.csv
+*/data
+.DS_Store
